@@ -1,2 +1,3 @@
 # git-intro
-Template Repository for git introductory lesson
+Marija's Repository for git introductory lesson. Bla-bla. Blaaaa
+
